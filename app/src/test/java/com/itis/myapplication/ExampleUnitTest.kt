@@ -1,4 +1,4 @@
-package com.itis.androidhomework
+package com.itis.myapplication
 
 import org.junit.Test
 
