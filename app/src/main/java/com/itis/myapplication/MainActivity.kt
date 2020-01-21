@@ -1,9 +1,7 @@
-package com.itis.androidhomework
+package com.itis.myapplication
 
-import android.support.v7.app.AppCompatActivity
-import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.itis.myapplication.R
+import android.os.Bundle
 
 class MainActivity : AppCompatActivity() {
 
